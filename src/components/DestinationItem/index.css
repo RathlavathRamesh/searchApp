@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.item {
+  height: 30vh;
+  width: 12vw;
+  padding: 10px;
+  list-style-type: none;
+  margin: 5px;
+}
+.images {
+  height: 12vh;
+  border: 5px;
+}
+.name-style {
+  font-size: 10px;
+  color: #0f172a;
+}

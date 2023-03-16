@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.searchContainer {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50vw;
+  padding: 10px;
+  margin-left: 40px;
+  margin: 30px;
+  box-shadow: antiquewhite 20px 20px 20px 20px;
+}
+.searchicon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 6vh;
+  background-color: #ffffff;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #a79191;
+  border-radius: 8px;
+}
+.icon {
+  height: 4vh;
+  margin-top: 5px;
+}
+.search {
+  border-width: 0px;
+  height: 5vh;
+  font-size: 18px;
+}
+.heading {
+  color: #252627;
+}
+.items {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
